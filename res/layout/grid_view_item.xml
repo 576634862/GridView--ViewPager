@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    android:gravity="center">
+    <ImageView
+        android:contentDescription="@null"
+        android:layout_height="60dp"
+        android:layout_width="60dp"
+        android:id="@+id/getViewLinear"
+        android:orientation="vertical"
+        android:background="@drawable/eight"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="10dp"/>
+</LinearLayout>
